@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "czxgay.aternos.me",
-    "port": 50438,
-    "version": "",
+    "ip": "127.0.0.1",
+    "port": 34712,
+    "version": "26.3-snapshot-5",
     "try-creative": false
   },
   "position": {
